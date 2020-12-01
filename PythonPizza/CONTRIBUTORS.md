@@ -2,8 +2,15 @@
 
 ## Maintainers
 
+### [Kevin Hernandez](https://github.com/syncorpgroup)
+###### Panama code Maintainer
+
 ### [Grant Gordon](https://github.com/gamagori)
-###### Current Maintainer
+###### US code Maintainer 1
+
+### [GJarvis Johnson](https://github.com/Magicjarvis/pizzapi)
+###### US code Maintainer 2
+
 
 ## Contributors
 
