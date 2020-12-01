@@ -6,7 +6,11 @@
 ###### Panama code Maintainer
 
 ### [Grant Gordon](https://github.com/gamagori)
-###### US code Maintainer
+###### US code Maintainer 1
+
+### [GJarvis Johnson](https://github.com/Magicjarvis/pizzapi)
+###### US code Maintainer 2
+
 
 ## Contributors
 
