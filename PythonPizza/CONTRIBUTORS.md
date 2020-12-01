@@ -2,8 +2,11 @@
 
 ## Maintainers
 
+### [Kevin Hernandez](https://github.com/syncorpgroup)
+###### Panama code Maintainer
+
 ### [Grant Gordon](https://github.com/gamagori)
-###### Current Maintainer
+###### US code Maintainer
 
 ## Contributors
 
